@@ -84,7 +84,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
         <div id="body">
 
-            <h2><a href="http://pkl.notaxcloth.com/dkwebhost/api/kontak">REST Server Tests</a></h2>
+            <h2><a href="http://pkl.notaxcloth.com/dkwebhost/api/nilai">REST Server Tests</a></h2>
             <h2><a href="http://diendrakur.000webhostapp.com/clientdk/mahasiswa">
                     MY Client
                 </a></h2>
@@ -95,4 +95,4 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
 </body>
 
-</html> 
+</html>
